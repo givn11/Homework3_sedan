@@ -18,7 +18,7 @@ getCar.onmouseout = function(){
 }
 
 function toDriveRight(){
-	if (position == 500) {
+	if (position == 450) {
 		clearInterval(id);
 	}else{
 	sedan.src="image/sedan.png";
